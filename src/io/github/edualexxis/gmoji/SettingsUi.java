@@ -1,4 +1,4 @@
-package com.edualexxis.gmoji;
+package io.github.edualexxis.gmoji;
 
 import android.app.Activity;
 import android.content.Context;
@@ -125,7 +125,7 @@ final class SettingsUi {
         String action = i == null ? null : i.getStringExtra("gmoji.action");
         if (action == null) return;
         Uri ref = a.getReferrer(); // set by the system, so other apps can't claim to be us
-        if (ref == null || !"com.edualexxis.gmoji".equals(ref.getHost())) {
+        if (ref == null || !"io.github.edualexxis.gmoji".equals(ref.getHost())) {
           Hook.log("ignored gmoji request from " + ref);
           return;
         }

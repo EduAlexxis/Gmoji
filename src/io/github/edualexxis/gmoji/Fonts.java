@@ -1,4 +1,4 @@
-package com.edualexxis.gmoji;
+package io.github.edualexxis.gmoji;
 
 import android.graphics.fonts.Font;
 import android.graphics.fonts.FontFamily;
