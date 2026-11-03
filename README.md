@@ -1,6 +1,6 @@
 # Gmoji
 
-Use your own color emoji font in **Gboard**, and nowhere else. An Xposed-style module for [Vector](https://github.com/JingMatrix/Vector) / LSPosed.
+Use your own color emoji font in **Gboard**. An Xposed-style module for [Vector](https://github.com/JingMatrix/Vector) / LSPosed.
 
 - Import `.ttf` and `.ttc` color emoji fonts and switch between them in one tap.
 - A **Gmoji** row appears in Gboard's own settings (right under *Emojis, stickers & GIFs*) and opens a sheet with every imported font and a live preview of each.
