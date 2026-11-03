@@ -1,4 +1,4 @@
-package co.edualexxis.gmoji;
+package com.edualexxis.gmoji;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

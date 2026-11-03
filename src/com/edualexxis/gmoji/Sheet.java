@@ -1,4 +1,4 @@
-package co.edualexxis.gmoji;
+package com.edualexxis.gmoji;
 
 import android.app.Activity;
 import android.app.AlertDialog;

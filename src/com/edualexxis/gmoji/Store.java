@@ -1,4 +1,4 @@
-package co.edualexxis.gmoji;
+package com.edualexxis.gmoji;
 
 import java.io.File;
 import java.io.FileOutputStream;

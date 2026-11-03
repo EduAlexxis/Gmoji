@@ -57,7 +57,7 @@ The APK is signed with a throwaway key created on first build at `~/.android/gmo
 ## Layout
 
 ```
-src/co/edualexxis/gmoji/
+src/com/edualexxis/gmoji/
   Hook.java        entry point; swaps the typefaces inside Gboard
   Fonts.java       system font families, .ttc handling, ready-made typefaces
   Store.java       the font library inside Gboard's storage

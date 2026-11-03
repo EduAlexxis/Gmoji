@@ -1,4 +1,4 @@
-package co.edualexxis.gmoji;
+package com.edualexxis.gmoji;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
