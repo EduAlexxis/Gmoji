@@ -1,0 +1,9 @@
+build/
+*.apk
+*.idsig
+*.jks
+*.keystore
+.DS_Store
+.idea/
+*.iml
+local.properties
