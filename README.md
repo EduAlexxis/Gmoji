@@ -1,3 +1,5 @@
+<p align="center"><img src="art/icon.png" width="128" alt="Gmoji"></p>
+
 # Gmoji
 
 Use your own color emoji font in **Gboard**. An Xposed-style module for [Vector](https://github.com/JingMatrix/Vector) / LSPosed.

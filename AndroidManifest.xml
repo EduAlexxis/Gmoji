@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="co.edualexxis.gmoji" android:versionCode="1" android:versionName="1.0">
   <uses-sdk android:minSdkVersion="29" android:targetSdkVersion="34"/>
   <queries><package android:name="com.google.android.inputmethod.latin"/></queries>
-  <application android:label="Gmoji">
+  <application android:label="Gmoji" android:icon="@mipmap/ic_launcher">
     <meta-data android:name="xposedmodule" android:value="true"/>
     <meta-data android:name="xposeddescription" android:value="Replace Gboard's emoji with a custom TTF"/>
     <meta-data android:name="xposedminversion" android:value="82"/>
